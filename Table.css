@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    color: black;
+}
+
+.bl{
+    color: blue;
+}
+
+.sa{
+    color: #F2B6AA;
+}
+
+.ye{
+    color: yellow;
+}
+
+.br{
+    color: #B06C5F;
+}
+
+.br1{
+    color: brown;
+}
+
+.re{
+    color: red;
+}
+
+tr{
+    text-align: center;
+}
